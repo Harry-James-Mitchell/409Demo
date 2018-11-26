@@ -916,7 +916,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lookAt: {fileID: 4626026221698110}
   camTransform: {fileID: 4626026221698110}
-  distance: 5
+  distance: 15
 --- !u!114 &114551384804589004
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -928,6 +928,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33e19da6a22259d4299a67d51a3c65f7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  moving: 0
   speed: 7
   turnSpeed: 150
   gravity: 20
