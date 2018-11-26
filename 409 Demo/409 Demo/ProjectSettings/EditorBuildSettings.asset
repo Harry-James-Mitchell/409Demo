@@ -5,7 +5,19 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: f42baf7f000fb54488ab97336c86b22d
+  - enabled: 1
+    path: Assets/Scenes/DemoScene.unity
+    guid: 9db8480232a72474fad47c9a33dfd0b9
+  - enabled: 1
+    path: Assets/Scenes/BackToRocket.unity
+    guid: a37257926933d554b920e356e3882a0b
+  - enabled: 1
+    path: Assets/Scenes/FindTheCoin.unity
+    guid: adf050918250d4e4898520c4e70e96c2
   m_configObjects: {}
